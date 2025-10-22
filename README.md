@@ -133,7 +133,7 @@ async function runModel(text: string) {
 
 ## 📸 Screenshot (แนะนำใส่รูปจริง)
 ```markdown
-![Demo Screenshot](.screenshot.png)
+![Demo Screenshot](./screenshot.png)
 ```
 
 ---
