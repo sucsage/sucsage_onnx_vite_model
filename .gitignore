@@ -1,0 +1,8 @@
+# root .gitignore
+# ignore common files
+__pycache__/
+*.pyc
+*.log
+
+# include rules from subproject
+!ai_web_template/.gitignore
